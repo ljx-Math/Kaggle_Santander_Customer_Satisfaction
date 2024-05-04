@@ -1,0 +1,2 @@
+# Kaggle_Santander_Customer_Satisfaction
+项目名称是：桑坦德银行客户的满意度。这里包含了探索性数据分析、特征工程、调整算法模型的全过程。
